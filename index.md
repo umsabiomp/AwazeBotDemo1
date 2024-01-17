@@ -1,6 +1,8 @@
 <html>
         <body>
-                background: url(Picture 1.png);
+                <picture>
+			<img src="awazebackground.jpeg">
+		</picture>
 		<script type='text/javascript'>
 	              function initEmbeddedMessaging() {
 		            try {
