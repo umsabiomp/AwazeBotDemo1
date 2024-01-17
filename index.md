@@ -11,6 +11,8 @@
 	</style>
 	</head>
         <body>
+		<h1>
+		</h1>
 		<script type='text/javascript'>
 	              function initEmbeddedMessaging() {
 		            try {
