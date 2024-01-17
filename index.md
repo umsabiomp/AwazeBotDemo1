@@ -1,4 +1,5 @@
 <html>
+	<img  src="awazebackground.jpeg" style='position:absolute; top,left:0px; width,max-height:100%; border:0;' >
         <body>
 		<script type='text/javascript'>
 	              function initEmbeddedMessaging() {
