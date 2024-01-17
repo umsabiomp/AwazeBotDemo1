@@ -1,7 +1,10 @@
 <html>
-	<picture>
-		<img  src="awazebackground.jpeg" style='position:absolute; top,left:0px; width,max-height:100%; border:0;' >
-	</picture>
+	.appBackground {
+    position: relative;
+    background-image: url(".../img/background.jpg");
+    background-repeat:no-repeat;
+    background-size:100% 100vh;
+}
         <body>
 		<script type='text/javascript'>
 	              function initEmbeddedMessaging() {
