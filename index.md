@@ -1,7 +1,7 @@
 <html>
 	.appBackground {
     position: relative;
-    background-image: url(".../img/background.jpg");
+    background-image: url("awazebackground.jpeg");
     background-repeat:no-repeat;
     background-size:100% 100vh;
 }
