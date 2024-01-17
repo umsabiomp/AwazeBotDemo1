@@ -1,6 +1,10 @@
 <html>
 	<head>
-		<link rel="stylesheet" href=style.css>
+	<style>
+		body {
+			background-color:grey;
+			}
+	</style>
 	</head>
         <body>
 		<script type='text/javascript'>
